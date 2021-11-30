@@ -4,3 +4,4 @@ Some notes and exercises from course [Functional Programming in Python](https://
 
 - [Calculator](./calculator.ipynb)
 - [Timer](./timer.ipynb)
+- [Currying](./currying.ipynb)
